@@ -3,7 +3,7 @@ package hometask01datatypes;
 public class DataTypes {
     public static void main(String[] args) {
 
-        int intVar = 11;
+        int intVar = 10;
         double doubleVar;
         String stringVar;
 
