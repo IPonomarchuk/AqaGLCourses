@@ -1,4 +1,4 @@
-package hometask1;
+package hometask01datatypes;
 
 public class TypesTest {
 
